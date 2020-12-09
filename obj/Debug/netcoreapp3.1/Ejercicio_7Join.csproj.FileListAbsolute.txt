@@ -1,0 +1,11 @@
+C:\Users\ernes\source\repos\Ejercicio2_1\Ejercicio_7Join\obj\Debug\netcoreapp3.1\Ejercicio_7Join.csprojAssemblyReference.cache
+C:\Users\ernes\source\repos\Ejercicio2_1\Ejercicio_7Join\obj\Debug\netcoreapp3.1\Ejercicio_7Join.AssemblyInfoInputs.cache
+C:\Users\ernes\source\repos\Ejercicio2_1\Ejercicio_7Join\obj\Debug\netcoreapp3.1\Ejercicio_7Join.AssemblyInfo.cs
+C:\Users\ernes\source\repos\Ejercicio2_1\Ejercicio_7Join\bin\Debug\netcoreapp3.1\Ejercicio_7Join.exe
+C:\Users\ernes\source\repos\Ejercicio2_1\Ejercicio_7Join\bin\Debug\netcoreapp3.1\Ejercicio_7Join.deps.json
+C:\Users\ernes\source\repos\Ejercicio2_1\Ejercicio_7Join\bin\Debug\netcoreapp3.1\Ejercicio_7Join.runtimeconfig.json
+C:\Users\ernes\source\repos\Ejercicio2_1\Ejercicio_7Join\bin\Debug\netcoreapp3.1\Ejercicio_7Join.runtimeconfig.dev.json
+C:\Users\ernes\source\repos\Ejercicio2_1\Ejercicio_7Join\bin\Debug\netcoreapp3.1\Ejercicio_7Join.dll
+C:\Users\ernes\source\repos\Ejercicio2_1\Ejercicio_7Join\bin\Debug\netcoreapp3.1\Ejercicio_7Join.pdb
+C:\Users\ernes\source\repos\Ejercicio2_1\Ejercicio_7Join\obj\Debug\netcoreapp3.1\Ejercicio_7Join.dll
+C:\Users\ernes\source\repos\Ejercicio2_1\Ejercicio_7Join\obj\Debug\netcoreapp3.1\Ejercicio_7Join.pdb
